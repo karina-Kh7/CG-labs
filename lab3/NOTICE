@@ -1,0 +1,4 @@
+Copyright 2026 Vladimir Bakharev
+
+Third-party source code is under third_party with the upstream license notices.
+stb_image.h is used under the public-domain option stated in that header.

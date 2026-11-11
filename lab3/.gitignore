@@ -1,0 +1,8 @@
+build-*/
+shaders/*.spv
+imgui.ini
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+.git-broken-backup/
